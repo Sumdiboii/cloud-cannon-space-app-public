@@ -3,8 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008BFF&center=true&vCenter=true&width=500&lines=CloudCannon:+Minimalist+Cloud+Storage;Secure+Uploads,+Powerful+Tools" alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
-  <img src="read-me-images/cloudcannon-banner.png" width="100%" alt="CloudCannon Banner" />
+  <img src="readme-images/cc-logo-bluecannon-only.png" width="20%" alt="CloudCannon Banner" />
 </p>
 
 <h1 align="center" style="color:#008BFF;"> ☁️ CloudCannon ☁️ </h1>
@@ -14,14 +16,14 @@
 <br><br>
 
 <p align="center">
-  <img src="read-me-images/cloudcannon-snap.png" alt="CloudCannon UI Snapshots" />
+  <img src="readme-images/cloudcannon-banner.png" alt="CloudCannon Banner" />
 </p>
 
 <br><br>
 
 <p align="center">
   <a href="https://cloud-cannon-space-app.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20the%20Project-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="🚀 View the Project" />
+    <img src="https://img.shields.io/badge/View%20the%20Project-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="💙 View the Project" />
   </a>
 </p>
 
@@ -46,16 +48,26 @@ CloudCannon is your secure digital drive with an emphasis on design simplicity a
 <br><br>
 
 <p align="center">
-  <img src="read-me-images/cloudcannon-ui-1.png" width="140" />
-  <img src="read-me-images/cloudcannon-ui-2.png" width="140" />
-  <img src="read-me-images/cloudcannon-ui-3.png" width="140" />
-  <img src="read-me-images/cloudcannon-ui-4.png" width="140" />
-  <img src="read-me-images/cloudcannon-ui-5.png" width="140" />
+  
+  <img src="readme-images/Screenshot 2025-06-06 220304.png" alt="CloudCannon Screenshot 1" />
+  
+  <img src="readme-images/Screenshot 2025-06-06 220351.png" alt="CloudCannon Screenshot 2" />
+  
+  <img src="readme-images/Screenshot 2025-06-06 220433.png" alt="CloudCannon Screenshot 3" />
+  
+  <img src="readme-images/Screenshot 2025-06-06 220527.png" alt="CloudCannon Screenshot 4" />
+  
+  <img src="readme-images/Screenshot 2025-06-06 220605.png" alt="CloudCannon Screenshot 5" />
+  
+  <img src="readme-images/Screenshot 2025-06-07 000858.png" alt="CloudCannon Screenshot 6" />
+  
 </p>
 
 <br><br>
 
 ## 🛠️ Tech Stack and Tools
+
+<br> 
 
 <div align="center">
 
