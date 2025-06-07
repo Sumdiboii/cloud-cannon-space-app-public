@@ -3,23 +3,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=008BFF&center=true&vCenter=true&width=500&lines=CloudCannon:+Minimalist+Cloud+Storage;Secure+Uploads,+Powerful+Tools" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
-  <img src="readme-images/cc-logo-bluecannon-only.png" width="20%" alt="CloudCannon Banner" />
+  <img src="readme-images/cc-logo-bluecannon-only.png" width="20%" alt="CloudCannon Logo" />
 </p>
 
-<h1 align="center" style="color:#008BFF;"> ☁️ CloudCannon ☁️ </h1>
+<h1 align="center">☁️ CloudCannon ☁️</h1>
+<h3 align="center">Sleek Design, Serious Security — Cloud Storage, Reinvented.</h3>
 
-<h3 align="center" style="color:#008BFF;"> Sleek Design, Serious Security — Cloud Storage, Reinvented. </h3>
-
-<br><br>
+<br>
 
 <p align="center">
-  <img src="readme-images/cloudcannon-banner.png" alt="CloudCannon Banner" />
+  <img src="readme-images/Copy of Copy of Your paragraph text (1).png" alt="CloudCannon Banner" />
 </p>
 
-<br><br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://cloud-cannon-space-app.vercel.app/">
@@ -29,46 +27,56 @@
 
 <br>
 
+---
+
 ## 🚀 What Did I Build?
 
-- CloudCannon is a sleek and minimalist cloud storage app built using React, CSS, Node.js, Express.js, and Firebase.
-- It supports secure two-step login with bcrypt-based password hashing for ultimate privacy and control.
-- Users can upload, rename, download, copy file links, and sort files by date and type.
-- Its standout Laboratory Mode enables browser-based image, video, and text file enhancement, compression, and editing.
-- The app’s clean and fluid UI makes complex tools feel effortless.
+**CloudCannon** is a minimalist, high-performance cloud storage application built using **React**, **CSS**, **Vite**, and powered by **Supabase** for authentication, database, and file storage.
 
-<br><br>
+- Two-step verification for secure user authentication  
+- Upload, rename, download (including ZIP), and copy file links  
+- File sorting by date and type for improved usability  
+- **Laboratory Mode**: in-browser editing for images and text files (saved as safe copies)  
+- Clean, responsive interface optimized for all devices  
+
+<br>
+
+---
+
+<br>
 
 ## ☁️ What is This Project?
 
-CloudCannon is your secure digital drive with an emphasis on design simplicity and functional depth. It's perfect for users who want quick access, rich media processing, and cloud-level privacy — all wrapped in an intuitive interface.
+**CloudCannon** is a full-stack cloud storage solution that emphasizes simplicity, speed, and security. It uses **Supabase** as the backend to handle user authentication, file storage, and real-time operations.
 
-> From developers to designers, CloudCannon gives everyone their private tech-powered vault.
+This project is designed for users who require a fast, reliable, and user-friendly cloud storage experience with essential file management features and additional tools like browser-based file editing.
 
-<br><br>
+It delivers a balance of modern UI/UX with a robust backend, making it suitable for both personal and professional use.
+
+<br>
+
+---
+
+<br>
+
+## 📸 Screenshots
 
 <p align="center">
-  
-  <img src="readme-images/Screenshot 2025-06-06 220304.png" alt="CloudCannon Screenshot 1" />
-  
-  <img src="readme-images/Screenshot 2025-06-06 220351.png" alt="CloudCannon Screenshot 2" />
-  
-  <img src="readme-images/Screenshot 2025-06-06 220433.png" alt="CloudCannon Screenshot 3" />
-  
-  <img src="readme-images/Screenshot 2025-06-06 220527.png" alt="CloudCannon Screenshot 4" />
-  
-  <img src="readme-images/Screenshot 2025-06-06 220605.png" alt="CloudCannon Screenshot 5" />
-  
-  <img src="readme-images/Screenshot 2025-06-07 000858.png" alt="CloudCannon Screenshot 6" />
-  
+  <img src="readme-images/Screenshot 2025-06-06 220304.png" alt="Screenshot 1" />
+  <img src="readme-images/Screenshot 2025-06-06 220351.png" alt="Screenshot 2" />
+  <img src="readme-images/Screenshot 2025-06-06 220433.png" alt="Screenshot 3" />
+  <img src="readme-images/Screenshot 2025-06-06 220527.png" alt="Screenshot 4" />
+  <img src="readme-images/Screenshot 2025-06-06 220605.png" alt="Screenshot 5" />
+  <img src="readme-images/Screenshot 2025-06-07 000858.png" alt="Screenshot 6" />
 </p>
 
-<br><br>
+---
 
 ## 🛠️ Tech Stack and Tools
 
-<br> 
+<br>
 
+  
 <div align="center">
 
 <table>
@@ -81,27 +89,27 @@ CloudCannon is your secure digital drive with an emphasis on design simplicity a
   <tbody>
     <tr>
       <td>React</td>
-      <td>Frontend UI library for fast, component-based architecture</td>
+      <td>Frontend UI library for fast, component-based views</td>
     </tr>
     <tr>
       <td>CSS</td>
-      <td>Styling framework for modern, responsive layouts</td>
+      <td>Styling framework for responsive, modern layouts</td>
     </tr>
     <tr>
-      <td>Firebase</td>
-      <td>Authentication and file storage (Firestore/Storage)</td>
+      <td>Supabase</td>
+      <td>Backend for auth, database, and file storage</td>
     </tr>
     <tr>
-      <td>Node.js</td>
-      <td>Runtime environment for backend functionality</td>
+      <td>Vite</td>
+      <td>Fast build tool and development server</td>
     </tr>
     <tr>
-      <td>Express.js</td>
-      <td>Lightweight backend framework to handle API routes</td>
+      <td>Vercel</td>
+      <td>Hosting and deployment</td>
     </tr>
     <tr>
-      <td>Bcrypt</td>
-      <td>Secure password hashing for 2-step login</td>
+      <td>Pako</td>
+      <td>Browser-side image compression utility</td>
     </tr>
   </tbody>
 </table>
@@ -109,51 +117,70 @@ CloudCannon is your secure digital drive with an emphasis on design simplicity a
 </div>
 
 
-<br><br>
+
+<br>
+
+---
+
+<br>
 
 ## 🔐 Core Features
 
-- Cloud storage and retrieval
-- 2-step login with bcrypt security
-- Rename, download, copy links
-- Filter and sort files easily
-- Laboratory Mode for file manipulation:
-  - Compress images/videos
-  - Enhance clarity
-  - Apply edits and save
+- 🔒 Secure cloud storage with two-step authentication  
+- 📁 Upload, rename, download (ZIP included), and copy links  
+- 🧠 Smart sorting by file date and type  
+- 🧪 **Laboratory Mode**:  
+  - Compress/enhance images in-browser  
+  - Edit/save text files (safely as new copies)  
+- 📱 Clean and responsive design for all screen sizes  
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 ## 🔍 Learning Highlights
 
-- Designed and implemented a secure user authentication flow using Firebase Auth and bcrypt
-- Practiced clean UI/UX principles in building a minimalist, distraction-free cloud platform
-- Gained hands-on experience with Firebase integration, React state management, and server logic with Node.js + Express.js
-- Explored media handling and manipulation directly in the browser
+- Crafted custom secure authentication flows using **Supabase Auth**  
+- Focused on clean UI/UX principles and minimal distractions  
+- Managed frontend state efficiently with modern React practices  
+- Learned file handling and in-browser media manipulation  
+- Boosted deployment confidence with Vercel and Vite  
 
-<br><br>
+<br>
+
+---
+
+<br>
 
 ## 🚧 Future Plans
 
-- Integrate database storage (Firestore/Alt) for metadata
-- Add drag & drop uploading
-- Implement version history and file rollback
-- Mobile-first responsive overhaul
-- Optional premium storage tiers
+- 🔍 Add file metadata and powerful search  
+- 🖱️ Drag & drop upload support  
+- 📜 Version history and rollback  
+- 📱 More mobile-first enhancements  
+- 💎 Premium tier options for advanced users  
 
-> CloudCannon is still evolving — backend enhancements and smart features are on the way
+<br> 
 
-<br><br>
+**CloudCannon** is still growing — smarter features and backend upgrades are coming!
+
+<br>
+
+---
+
+<br>
 
 ## 👨‍💻 About the Creator
 
-Sumdiboii — Developer, Designer & Cloud Enthusiast  
-[LinkedIn – Sumedh Pimplikar](https://linkedin.com/in/sumedh-pimplikar)
+**Sumdiboii** – Developer, Designer & Cloud Enthusiast  
 
----
+*LinkedIn – [Sumedh Pimplikar](https://www.linkedin.com/in/sumedh-pimplikar)*
 
-> Clean UI, powerful performance, and total control — CloudCannon redefines what your cloud drive should feel like.  
-> Built by passion. Deployed for precision.
 
----
+<br>
 
+> **Clean UI, powerful performance, and total control —  
+CloudCannon redefines what your cloud drive should feel like.**  
+**Built by passion. Deployed with precision.**
